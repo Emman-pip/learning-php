@@ -11,7 +11,8 @@
 	<?php
 	// include "./basics.php";
 	// include "./strings.php";
-	include "./functions.php";
+	// include "./functions.php";
+	include "./arrays.php";
 
 	?>
 </body>
