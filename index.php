@@ -13,7 +13,9 @@
 	// include "./strings.php";
 	// include "./functions.php";
 	// include "./arrays.php";
-	include "./superglobals.php";
+
+	// include "./superglobals.php";
+	include "./oop.php";
 	?>
 </body>
 
