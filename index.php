@@ -10,7 +10,8 @@
 <body>
 	<?php
 	// include "./basics.php";
-	include "./strings.php";
+	// include "./strings.php";
+	include "./functions.php";
 
 	?>
 </body>
