@@ -9,7 +9,9 @@
 
 <body>
 	<?php
-	include "./basics.php";
+	// include "./basics.php";
+	include "./strings.php";
+
 	?>
 </body>
 
